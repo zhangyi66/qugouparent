@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/basic-parent/basic-parent.iml" filepath="$PROJECT_DIR$/basic-parent/basic-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-parent/basic-util/basic-util.iml" filepath="$PROJECT_DIR$/basic-parent/basic-util/basic-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eruake-server-7001/eruake-server-7001.iml" filepath="$PROJECT_DIR$/eruake-server-7001/eruake-server-7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plat-parent/plat-interface/plat-interface.iml" filepath="$PROJECT_DIR$/plat-parent/plat-interface/plat-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plat-parent/plat-parent.iml" filepath="$PROJECT_DIR$/plat-parent/plat-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plat-parent/plat-service-8001/plat-service-8001.iml" filepath="$PROJECT_DIR$/plat-parent/plat-service-8001/plat-service-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qugouparent.iml" filepath="$PROJECT_DIR$/qugouparent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-gateway-9527/zuul-gateway-9527.iml" filepath="$PROJECT_DIR$/zuul-gateway-9527/zuul-gateway-9527.iml" />
+    </modules>
+  </component>
+</project>
