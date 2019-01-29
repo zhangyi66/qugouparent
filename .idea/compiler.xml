@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="basic-util" />
+        <module name="config-server-1299" />
         <module name="eruake-server-7001" />
         <module name="plat-interface" />
         <module name="plat-service-8001" />
@@ -14,14 +15,15 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="basic-parent" target="1.8" />
-      <module name="basic-util" target="1.8" />
-      <module name="eruake-server-7001" target="1.8" />
-      <module name="plat-interface" target="1.8" />
-      <module name="plat-parent" target="1.8" />
-      <module name="plat-service-8001" target="1.8" />
-      <module name="qugouparent" target="1.8" />
-      <module name="zuul-gateway-9527" target="1.8" />
+      <module name="basic-parent" target="1.5" />
+      <module name="basic-util" target="1.5" />
+      <module name="config-server-1299" target="1.5" />
+      <module name="eruake-server-7001" target="1.5" />
+      <module name="plat-interface" target="1.5" />
+      <module name="plat-parent" target="1.5" />
+      <module name="plat-service-8001" target="1.5" />
+      <module name="qugouparent" target="1.5" />
+      <module name="zuul-gateway-9527" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

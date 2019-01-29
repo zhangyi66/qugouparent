@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/basic-parent/basic-parent.iml" filepath="$PROJECT_DIR$/basic-parent/basic-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic-parent/basic-util/basic-util.iml" filepath="$PROJECT_DIR$/basic-parent/basic-util/basic-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server-1299/config-server-1299.iml" filepath="$PROJECT_DIR$/config-server-1299/config-server-1299.iml" />
       <module fileurl="file://$PROJECT_DIR$/eruake-server-7001/eruake-server-7001.iml" filepath="$PROJECT_DIR$/eruake-server-7001/eruake-server-7001.iml" />
       <module fileurl="file://$PROJECT_DIR$/plat-parent/plat-interface/plat-interface.iml" filepath="$PROJECT_DIR$/plat-parent/plat-interface/plat-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/plat-parent/plat-parent.iml" filepath="$PROJECT_DIR$/plat-parent/plat-parent.iml" />
